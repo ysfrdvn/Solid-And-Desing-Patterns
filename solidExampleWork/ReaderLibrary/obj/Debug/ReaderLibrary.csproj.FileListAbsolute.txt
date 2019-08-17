@@ -16,3 +16,13 @@ C:\Users\yusuf.savut\source\repos\solidExampleWork\ReaderLibrary\obj\Debug\Reade
 C:\Users\yusuf.savut\source\repos\solidExampleWork\ReaderLibrary\obj\Debug\ReaderLibrary.csproj.CoreCompileInputs.cache
 C:\Users\yusuf.savut\source\repos\solidExampleWork\ReaderLibrary\obj\Debug\ReaderLibrary.dll
 C:\Users\yusuf.savut\source\repos\solidExampleWork\ReaderLibrary\obj\Debug\ReaderLibrary.pdb
+C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\ReaderLibrary\bin\Debug\ReaderLibrary.dll.config
+C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\ReaderLibrary\bin\Debug\ReaderLibrary.dll
+C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\ReaderLibrary\bin\Debug\ReaderLibrary.pdb
+C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\ReaderLibrary\bin\Debug\ConvertHelper.dll
+C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\ReaderLibrary\bin\Debug\ConvertHelper.pdb
+C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\ReaderLibrary\obj\Debug\ReaderLibrary.csprojAssemblyReference.cache
+C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\ReaderLibrary\obj\Debug\ReaderLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\ReaderLibrary\obj\Debug\ReaderLibrary.csproj.CopyComplete
+C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\ReaderLibrary\obj\Debug\ReaderLibrary.dll
+C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\ReaderLibrary\obj\Debug\ReaderLibrary.pdb

@@ -7,12 +7,11 @@ using System.Threading.Tasks;
 using ConvertHelperLibrary;
 namespace ReaderLibrary
 {
-    public class JsonReader : IReader
-    {
-        public T getValue<T>(string referances)
+     class JsonReader : IReader
+     { 
+        public override object GetValue(String referances)
         {
-
-            return Converter.convert<T>(null);
+            return  null;
         }
-    }
+     }
 }

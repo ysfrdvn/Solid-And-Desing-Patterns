@@ -10,3 +10,16 @@ C:\Users\yusuf.savut\source\repos\solidExampleWork\TestReader\obj\Debug\TestRead
 C:\Users\yusuf.savut\source\repos\solidExampleWork\TestReader\obj\Debug\TestReader.csproj.CoreCompileInputs.cache
 C:\Users\yusuf.savut\source\repos\solidExampleWork\TestReader\obj\Debug\TestReader.exe
 C:\Users\yusuf.savut\source\repos\solidExampleWork\TestReader\obj\Debug\TestReader.pdb
+C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\TestReader\bin\Debug\TestReader.exe.config
+C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\TestReader\bin\Debug\TestReader.exe
+C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\TestReader\bin\Debug\TestReader.pdb
+C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\TestReader\bin\Debug\ReaderLibrary.dll
+C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\TestReader\bin\Debug\ConvertHelper.dll
+C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\TestReader\bin\Debug\ReaderLibrary.pdb
+C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\TestReader\bin\Debug\ReaderLibrary.dll.config
+C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\TestReader\bin\Debug\ConvertHelper.pdb
+C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\TestReader\obj\Debug\TestReader.csprojAssemblyReference.cache
+C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\TestReader\obj\Debug\TestReader.csproj.CoreCompileInputs.cache
+C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\TestReader\obj\Debug\TestReader.csproj.CopyComplete
+C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\TestReader\obj\Debug\TestReader.exe
+C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\TestReader\obj\Debug\TestReader.pdb

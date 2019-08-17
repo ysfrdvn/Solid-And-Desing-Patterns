@@ -12,7 +12,7 @@ namespace ReaderLibrary
        string source;
        
        public T getValue<T>(string referances)
-        {
+        { 
             source= ConfigurationManager.AppSettings.Get("ValueSource"); // appconfig te valuesoure denen değerin içinde nereden okunacagı yazıyor onu okur Factoryye yollar
             ReaderFactory readerFactory = new ReaderFactory();
             return readerFactory.getValue<T>(source, referances);

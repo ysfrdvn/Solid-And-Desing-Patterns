@@ -7,13 +7,20 @@ using ReaderLibrary;
 
 namespace TestReader
 {
-    class Program
+     class Program
     {
         static void Main(string[] args)
         {
-            int retryCount = ValueReader.GetValue<int>("retryCount");
+            int retryCount = ReadValue.GetValue<int>("retryCount");
             Console.WriteLine(retryCount);
-            Console.ReadLine();
+            int retryCount2 = ReadValue.GetValue<int>("retryCount");
+            Console.WriteLine(retryCount2);
+            String deneme = ReadValue.GetValue<String>("deneme");
+            Console.WriteLine(deneme); 
+            int retryCount3 = ReadValue.GetValue<int>("retryCount");
+            Console.WriteLine(retryCount3);
+
+
         }
     }
 }

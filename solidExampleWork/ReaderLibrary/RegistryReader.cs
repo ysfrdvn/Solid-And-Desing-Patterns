@@ -10,11 +10,10 @@ using ConvertHelperLibrary;
 namespace ReaderLibrary
 {
     class RegistryReader : IReader
-    {
-       public T getValue<T>(String referances)
+    { 
+       public override object GetValue(String referances)
         {
-            var value = Registry.Users.GetValue(referances);
-            return Converter.convert<T>(value);
+            return Registry.Users.GetValue(referances);
         
         }
     }

@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 using ConvertHelperLibrary;
 namespace ReaderLibrary
 {
-    class DbReader : IReader
+    class DbReader : IReader 
     {
         
-        public T getValue<T>(String referances)
+        public override object GetValue(String referances)
         {
-            object value = null;    
-            return Converter.convert<T>(value);
+            object value = null;
+            return value;
         }
     }
 }

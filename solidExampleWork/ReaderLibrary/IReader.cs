@@ -6,8 +6,16 @@ using System.Threading.Tasks;
 
 namespace ReaderLibrary
 {
-     interface  IReader // abstract ve template
+     abstract class IReader // abstract ve template
     {
-         T getValue<T>(String referances);
+        object value = null;
+        public abstract object GetValue(string referances);
+         
+        public T ConvertValue<T>(string referances)
+        {
+            this.value = GetValue(referances);
+            return ConvertHelperLibrary.Converter.convert<T>(value);
+        }
+        
     }
 }

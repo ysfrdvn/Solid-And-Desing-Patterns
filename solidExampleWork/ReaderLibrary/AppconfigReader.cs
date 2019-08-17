@@ -9,16 +9,11 @@ using ConvertHelperLibrary;
 namespace ReaderLibrary
 
 {
-    class AppconfigReader :IReader
+    class AppconfigReader :IReader 
     {
-        
-
-        public T getValue<T>(String referances)
+         public override object GetValue(String referances)
         {
-            var value = ConfigurationManager.AppSettings.Get(referances);
-            return Converter.convert<T>(value);
-            
-          
-        }
+            return ConfigurationManager.AppSettings.Get(referances);
+         }
     }
 }
