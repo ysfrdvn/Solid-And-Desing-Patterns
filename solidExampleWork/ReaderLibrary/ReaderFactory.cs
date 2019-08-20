@@ -12,40 +12,24 @@ namespace ReaderLibrary
 {
      class ReaderFactory
     {
-        string source = ConfigurationManager.AppSettings.Get("ValueSource"); // appconfig te valuesoure denen değerin içinde nereden okunacagı yazıyor onu okur Factoryye yollar
 
-        private static SortedList values = new SortedList();
-       
-       public T getValue<T>(string referances)
+        public ReaderBase GetReader()
         {
-            
-            if (values.ContainsKey(referances))
+            string source = ConfigurationManager.AppSettings.Get("ValueSource"); // appconfig te valuesoure denen değerin içinde nereden okunacagı yazıyor onu okur Factoryye yollar
+
+            if (source == "Appconfig")
             {
-                Console.WriteLine("değer Hafızadan okundu");
-                int index = values.IndexOfKey(referances);
-                return ConvertHelperLibrary.Converter.convert<T>((values.GetByIndex(index)));
-                
+                return new AppconfigReader();
             }
-       
-            Console.WriteLine("değer kaynaktan okundu");
-            if (source == "Appconfig") { 
-                var value = new AppconfigReader().ConvertValue<T>(referances);
-                values.Add(referances, value);
-                return value;
+            else if (source == "Registry")
+            {
+                return new RegistryReader();
             }
-            else if (source == "Registry") { 
-                var value = new RegistryReader().ConvertValue<T>(referances);
-                values.Add(referances, value);
-                return value;
+            else
+            {
+                throw new NotImplementedException();
             }
-            else { 
-                TypeConverter converter = TypeDescriptor.GetConverter(typeof(T));
-                return (T)converter.ConvertFrom(null);
-            }
-
         }
-        
-
 
        
     }

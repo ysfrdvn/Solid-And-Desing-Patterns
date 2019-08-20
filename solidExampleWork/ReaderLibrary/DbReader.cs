@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using ConvertHelperLibrary;
 namespace ReaderLibrary
 {
-    class DbReader : BaseReader 
+    class DbReader : ReaderBase 
     {
 
         protected override object GetValue(String referances)

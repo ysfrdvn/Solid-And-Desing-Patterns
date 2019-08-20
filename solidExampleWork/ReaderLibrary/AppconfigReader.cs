@@ -9,7 +9,7 @@ using ConvertHelperLibrary;
 namespace ReaderLibrary
 
 {
-    class AppconfigReader :BaseReader 
+    class AppconfigReader :ReaderBase 
     {
          protected override object GetValue(String referances)
         {

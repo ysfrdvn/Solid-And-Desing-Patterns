@@ -9,7 +9,7 @@ using ConvertHelperLibrary;
 
 namespace ReaderLibrary
 {
-    class RegistryReader : BaseReader
+    class RegistryReader : ReaderBase
     {
         protected override object GetValue(String referances)
         {
