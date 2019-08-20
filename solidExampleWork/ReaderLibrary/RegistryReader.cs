@@ -9,9 +9,9 @@ using ConvertHelperLibrary;
 
 namespace ReaderLibrary
 {
-    class RegistryReader : IReader
-    { 
-       public override object GetValue(String referances)
+    class RegistryReader : BaseReader
+    {
+        protected override object GetValue(String referances)
         {
             return Registry.Users.GetValue(referances);
         

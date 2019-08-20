@@ -14,3 +14,8 @@ C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\Convert
 C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\ConvertHelper\obj\Debug\ConvertHelperLibrary.csproj.CoreCompileInputs.cache
 C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\ConvertHelper\obj\Debug\ConvertHelper.dll
 C:\Users\ysfrdvn\Source\Repos\Solid-And-Desing-Patterns\solidExampleWork\ConvertHelper\obj\Debug\ConvertHelper.pdb
+C:\Users\yusuf.savut\OneDrive - Doğuş Holding A.Ş\Masaüstü\Solid-And-Desing-Patterns\solidExampleWork\ConvertHelper\bin\Debug\ConvertHelper.dll
+C:\Users\yusuf.savut\OneDrive - Doğuş Holding A.Ş\Masaüstü\Solid-And-Desing-Patterns\solidExampleWork\ConvertHelper\bin\Debug\ConvertHelper.pdb
+C:\Users\yusuf.savut\OneDrive - Doğuş Holding A.Ş\Masaüstü\Solid-And-Desing-Patterns\solidExampleWork\ConvertHelper\obj\Debug\ConvertHelperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\yusuf.savut\OneDrive - Doğuş Holding A.Ş\Masaüstü\Solid-And-Desing-Patterns\solidExampleWork\ConvertHelper\obj\Debug\ConvertHelper.dll
+C:\Users\yusuf.savut\OneDrive - Doğuş Holding A.Ş\Masaüstü\Solid-And-Desing-Patterns\solidExampleWork\ConvertHelper\obj\Debug\ConvertHelper.pdb

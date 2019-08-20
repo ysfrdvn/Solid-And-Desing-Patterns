@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace ReaderLibrary
 {
-     abstract class IReader // abstract ve template
+     abstract class BaseReader // abstract ve template
     {
         object value = null;
-        public abstract object GetValue(string referances);
+        protected abstract object GetValue(string referances);
          
         public T ConvertValue<T>(string referances)
         {

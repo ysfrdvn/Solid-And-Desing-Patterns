@@ -9,9 +9,9 @@ using ConvertHelperLibrary;
 namespace ReaderLibrary
 
 {
-    class AppconfigReader :IReader 
+    class AppconfigReader :BaseReader 
     {
-         public override object GetValue(String referances)
+         protected override object GetValue(String referances)
         {
             return ConfigurationManager.AppSettings.Get(referances);
          }

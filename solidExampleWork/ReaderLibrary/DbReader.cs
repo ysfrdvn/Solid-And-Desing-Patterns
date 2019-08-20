@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 using ConvertHelperLibrary;
 namespace ReaderLibrary
 {
-    class DbReader : IReader 
+    class DbReader : BaseReader 
     {
-        
-        public override object GetValue(String referances)
+
+        protected override object GetValue(String referances)
         {
             object value = null;
             return value;

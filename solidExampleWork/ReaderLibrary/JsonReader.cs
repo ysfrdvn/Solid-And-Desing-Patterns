@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 using ConvertHelperLibrary;
 namespace ReaderLibrary
 {
-     class JsonReader : IReader
-     { 
-        public override object GetValue(String referances)
+     class JsonReader : BaseReader
+     {
+        protected override object GetValue(String referances)
         {
             return  null;
         }
