@@ -1,6 +1,0 @@
-C:\Users\yusuf.savut\source\repos\solidDenemeler\ConvertHelper\bin\Debug\ConvertHelper.dll
-C:\Users\yusuf.savut\source\repos\solidDenemeler\ConvertHelper\bin\Debug\ConvertHelper.pdb
-C:\Users\yusuf.savut\source\repos\solidDenemeler\ConvertHelper\obj\Debug\ConvertHelper.csprojResolveAssemblyReference.cache
-C:\Users\yusuf.savut\source\repos\solidDenemeler\ConvertHelper\obj\Debug\ConvertHelper.csproj.CoreCompileInputs.cache
-C:\Users\yusuf.savut\source\repos\solidDenemeler\ConvertHelper\obj\Debug\ConvertHelper.dll
-C:\Users\yusuf.savut\source\repos\solidDenemeler\ConvertHelper\obj\Debug\ConvertHelper.pdb
